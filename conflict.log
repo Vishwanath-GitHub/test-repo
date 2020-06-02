@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+this is a conflict content file from master branch
+and testing for conflicts
+=======
 this is a conflict content file from master branch as well as conflict-branch
+>>>>>>> conflict-branch
